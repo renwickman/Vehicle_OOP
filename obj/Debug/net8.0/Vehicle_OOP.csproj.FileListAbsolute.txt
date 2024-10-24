@@ -1,0 +1,14 @@
+C:\Users\renwi\Desktop\CsharpProjects\Vehicle_OOP\bin\Debug\net8.0\Vehicle_OOP.exe
+C:\Users\renwi\Desktop\CsharpProjects\Vehicle_OOP\bin\Debug\net8.0\Vehicle_OOP.deps.json
+C:\Users\renwi\Desktop\CsharpProjects\Vehicle_OOP\bin\Debug\net8.0\Vehicle_OOP.runtimeconfig.json
+C:\Users\renwi\Desktop\CsharpProjects\Vehicle_OOP\bin\Debug\net8.0\Vehicle_OOP.dll
+C:\Users\renwi\Desktop\CsharpProjects\Vehicle_OOP\bin\Debug\net8.0\Vehicle_OOP.pdb
+C:\Users\renwi\Desktop\CsharpProjects\Vehicle_OOP\obj\Debug\net8.0\Vehicle_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renwi\Desktop\CsharpProjects\Vehicle_OOP\obj\Debug\net8.0\Vehicle_OOP.AssemblyInfoInputs.cache
+C:\Users\renwi\Desktop\CsharpProjects\Vehicle_OOP\obj\Debug\net8.0\Vehicle_OOP.AssemblyInfo.cs
+C:\Users\renwi\Desktop\CsharpProjects\Vehicle_OOP\obj\Debug\net8.0\Vehicle_OOP.csproj.CoreCompileInputs.cache
+C:\Users\renwi\Desktop\CsharpProjects\Vehicle_OOP\obj\Debug\net8.0\Vehicle_OOP.dll
+C:\Users\renwi\Desktop\CsharpProjects\Vehicle_OOP\obj\Debug\net8.0\refint\Vehicle_OOP.dll
+C:\Users\renwi\Desktop\CsharpProjects\Vehicle_OOP\obj\Debug\net8.0\Vehicle_OOP.pdb
+C:\Users\renwi\Desktop\CsharpProjects\Vehicle_OOP\obj\Debug\net8.0\Vehicle_OOP.genruntimeconfig.cache
+C:\Users\renwi\Desktop\CsharpProjects\Vehicle_OOP\obj\Debug\net8.0\ref\Vehicle_OOP.dll
